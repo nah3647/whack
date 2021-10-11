@@ -7,8 +7,6 @@
     box-sizing: border-box;
     font-family: "Poppins";
     cursor: none;
-    Width:auto;
-overflow-x:hidden;
 }
 body{
     background-color: blueviolet;
@@ -17,8 +15,7 @@ body{
     justify-content: center;
     align-items:center;
     text-align-center;
-width:auto;
-overflow-x:hidden;
+    margin:0;
 }
 .heading{
     font-size: 2em;
