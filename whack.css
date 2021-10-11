@@ -8,7 +8,7 @@
 body{
     background-color: blueviolet;
     color:white;
-    display:flex;
+    display:block;
     justify-content: center;
     align-items:center;
     text-align-center;
@@ -32,7 +32,7 @@ body{
 
 }
 .hole{
-    position: relative;
+    position: fixed;
     height: 80px;
     width: 80px;
     border-radius: 50%;
