@@ -32,7 +32,7 @@ body{
 
 }
 .hole{
-    position: fixed;
+    position: relative;
     height: 80px;
     width: 80px;
     border-radius: 50%;
