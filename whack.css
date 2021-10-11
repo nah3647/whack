@@ -1,9 +1,18 @@
+
+This works for me
+
+html, body {width: auto!important; 
+overflow-x: hidden!important}
+
+
 *{
     margin:0;
     padding:0;
     box-sizing: border-box;
     font-family: "Poppins";
     cursor: none;
+    Width:auto;
+overflow-x:hidden;
 }
 body{
     background-color: blueviolet;
@@ -12,6 +21,8 @@ body{
     justify-content: center;
     align-items:center;
     text-align-center;
+width:auto;
+overflow-x:hidden;
 }
 .heading{
     font-size: 2em;
