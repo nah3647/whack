@@ -8,8 +8,10 @@
 body{
     background-color: blueviolet;
     color:white;
+    display:inline-block;
     justify-content: center;
-
+    align-items:center;
+    text-align-center;
 }
 .heading{
     font-size: 2em;
